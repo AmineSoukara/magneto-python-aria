@@ -70,7 +70,7 @@ log - Bot Log [owner only]
 # How to deploy?
 Deploying is pretty much straight forward and is divided into several steps as follows:
 ## Installing requirements
-
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 - Clone this repo:
 ```
 git clone https://github.com/magneto261290/magneto-python-aria mirror-bot/
